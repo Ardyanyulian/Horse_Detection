@@ -1,0 +1,9 @@
+# Virtual Environment
+ml_env/
+venv/
+__pycache__/
+
+# Dataset & Models (File Besar)
+dataset/
+*.joblib
+*.pkl
